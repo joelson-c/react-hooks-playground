@@ -1,6 +1,7 @@
 {
-  "name": "enext-dev-test",
+  "name": "react-hooks-playground",
   "version": "0.1.0",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.2.3",
